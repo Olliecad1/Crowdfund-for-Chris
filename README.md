@@ -19,11 +19,11 @@ The goal of this repository is to keep a record of updates made to, and news of,
 ***
 # Fundraiser Story
 
-Since June 2015, [Chris Ellis](https://twitter.com/MrChrisEllis) has been suffering from:
-+ Chronic headaches
-+ Hyperacusis
-+ Tinnitus
-+ Insomnia
+Since June 2015, [Chris Ellis](https://twitter.com/MrChrisEllis) has been suffering from chronic:
++ Headaches
++ [Hyperacusis](http://www.ucsfhealth.org/conditions/hyperacusis/)
++ [Tinnitus](http://www.ucsfhealth.org/conditions/tinnitus/)
++ [Insomnia](http://www.ucsfhealth.org/conditions/insomnia/)
 
 In order to function normally and sleep through the night, he needs to take sleeping pills and strong sedatives. Though he has sought many doctors and undergone various tests (MRI, CT etc.), the root cause of his illness is still unknown. 
 > Note: His most recent MRI scans have been uploaded to Dropbox. 
