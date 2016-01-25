@@ -38,6 +38,8 @@ Despite his illness, he has continued to work on vairous open-source projects wi
 <dl>
   <dt>Crowdfund Leader</dt>
   <dd>[Ollie](https://github.com/Olliecad1)</dd>
-<dl>
+  > *Hello, my name is Oliver Morris. I am learning Python, HTML & CSS programming. I've known Chris through the World Crypto Network for about a month. I decided to organize this crowdfund because he teaches us all this good knowledge, through the #FullNode project and about cryptography. He's a very good and clever person, so please donate to help our friend – he will appreciate it.*
+
+<d1>
   <dt>Chief Editor</dt>
   <dd>[Janine](https://twitter.com/J9Roem)</dd>
