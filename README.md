@@ -25,7 +25,7 @@ Since June 2015, [Chris Ellis](https://twitter.com/MrChrisEllis) has been suffer
 + Tinnitus
 + Insomnia
 
-In order to function normally and sleep through the night, he needs to take sleeping pills and strong sedatives. Though he sought many doctors and undergone various tests (MRI, CT etc.), the root cause of his illness is still unknown. 
+In order to function normally and sleep through the night, he needs to take sleeping pills and strong sedatives. Though he has sought many doctors and undergone various tests (MRI, CT etc.), the root cause of his illness is still unknown. 
 > Note: His most recent MRI scans have been uploaded to Dropbox. 
 > If any neuroradiologists specializing in the head/skull would be willing to take a look at them, please contact for access. 
 > Qualified professionals only, please.
