@@ -1,6 +1,6 @@
 # Crowdfund for Chris
 ***
-This is a public repository which will keep track of progressions made in the crowdfund.
+*This is a public repository which will keep track of progressions made in the crowdfund for Chris Ellis.*
 
 ## Goal:
 The goal of this repository is to keep a record of updates made to, and news of, the crowdfund campaign process, as well as offer everyone in the community who knows him best a chance to contribute even though they may not be leading it.
